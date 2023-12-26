@@ -1,0 +1,12 @@
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/helloworld_cli.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/helloworld.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/test_version.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/package.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/package_source.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/test.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/edit_cache.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/rebuild_cache.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/list_install_components.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/install.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/install/local.dir
+/Users/dovnimratz/Downloads/[OTUS] C++ Developer. Professional (2023)/01. Система сборки. build, test and deploy_/source/build/CMakeFiles/install/strip.dir
